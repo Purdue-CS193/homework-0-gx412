@@ -1,3 +1,14 @@
+# George's First CS193 Homework
+
+### Some things I like about CS193:
+-It is useful
+-It is simple
+-It will prepare me for my career
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 ### Testing...Testing... 123
